@@ -116,9 +116,8 @@
         loop: true,
         margin: 45,
         dots: false,
-        loop: true,
         autoplay: true,
-        smartSpeed: 1000,
+        autoplayTimeout: 700,
         responsive: {
             0:{
                 items:2
